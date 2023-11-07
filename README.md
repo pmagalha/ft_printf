@@ -26,7 +26,7 @@ This ft_printf function supports several format specifiers, described below.
 ## Usage
 #### 1st - Clone the repository
 ``` bash
-git@github.com:MartimPinto/ft_printf.git ft_printf
+git@github.com:pmagalha/ft_printf.git ft_printf
 ```
 #### 2nd - Enter the library folder and run Make
 ``` bash
